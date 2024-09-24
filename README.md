@@ -9,6 +9,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/KarnatiManisha/test2/tree/master/0002-add-two-numbers) |
+| [0007-reverse-integer](https://github.com/KarnatiManisha/test2/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/KarnatiManisha/test2/tree/master/0009-palindrome-number) |
 | [1635-number-of-good-pairs](https://github.com/KarnatiManisha/test2/tree/master/1635-number-of-good-pairs) |
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/KarnatiManisha/test2/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
