@@ -24,6 +24,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/KarnatiManisha/test2/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/KarnatiManisha/test2/tree/master/0011-container-with-most-water) |
+| [0053-maximum-subarray](https://github.com/KarnatiManisha/test2/tree/master/0053-maximum-subarray) |
 | [1635-number-of-good-pairs](https://github.com/KarnatiManisha/test2/tree/master/1635-number-of-good-pairs) |
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/KarnatiManisha/test2/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
 | [2448-count-number-of-bad-pairs](https://github.com/KarnatiManisha/test2/tree/master/2448-count-number-of-bad-pairs) |
@@ -73,6 +74,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/KarnatiManisha/test2/tree/master/0005-longest-palindromic-substring) |
+| [0053-maximum-subarray](https://github.com/KarnatiManisha/test2/tree/master/0053-maximum-subarray) |
 ## Greedy
 |  |
 | ------- |
@@ -85,4 +87,8 @@
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/KarnatiManisha/test2/tree/master/0029-divide-two-integers) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/KarnatiManisha/test2/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
