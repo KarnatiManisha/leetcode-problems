@@ -22,12 +22,14 @@
 | [1635-number-of-good-pairs](https://github.com/KarnatiManisha/test2/tree/master/1635-number-of-good-pairs) |
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/KarnatiManisha/test2/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
 | [2448-count-number-of-bad-pairs](https://github.com/KarnatiManisha/test2/tree/master/2448-count-number-of-bad-pairs) |
+| [3329-find-the-length-of-the-longest-common-prefix](https://github.com/KarnatiManisha/test2/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Hash Table
 |  |
 | ------- |
 | [1635-number-of-good-pairs](https://github.com/KarnatiManisha/test2/tree/master/1635-number-of-good-pairs) |
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/KarnatiManisha/test2/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
 | [2448-count-number-of-bad-pairs](https://github.com/KarnatiManisha/test2/tree/master/2448-count-number-of-bad-pairs) |
+| [3329-find-the-length-of-the-longest-common-prefix](https://github.com/KarnatiManisha/test2/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Counting
 |  |
 | ------- |
@@ -38,4 +40,12 @@
 |  |
 | ------- |
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/KarnatiManisha/test2/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
+## String
+|  |
+| ------- |
+| [3329-find-the-length-of-the-longest-common-prefix](https://github.com/KarnatiManisha/test2/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+## Trie
+|  |
+| ------- |
+| [3329-find-the-length-of-the-longest-common-prefix](https://github.com/KarnatiManisha/test2/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 <!---LeetCode Topics End-->
