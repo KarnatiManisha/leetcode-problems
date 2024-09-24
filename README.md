@@ -11,6 +11,7 @@
 | [0002-add-two-numbers](https://github.com/KarnatiManisha/test2/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/KarnatiManisha/test2/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/KarnatiManisha/test2/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/KarnatiManisha/test2/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/KarnatiManisha/test2/tree/master/0029-divide-two-integers) |
 | [0231-power-of-two](https://github.com/KarnatiManisha/test2/tree/master/0231-power-of-two) |
 | [1635-number-of-good-pairs](https://github.com/KarnatiManisha/test2/tree/master/1635-number-of-good-pairs) |
@@ -38,6 +39,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/KarnatiManisha/test2/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/KarnatiManisha/test2/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/KarnatiManisha/test2/tree/master/0013-roman-to-integer) |
 | [0496-next-greater-element-i](https://github.com/KarnatiManisha/test2/tree/master/0496-next-greater-element-i) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/KarnatiManisha/test2/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1635-number-of-good-pairs](https://github.com/KarnatiManisha/test2/tree/master/1635-number-of-good-pairs) |
@@ -60,6 +62,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/KarnatiManisha/test2/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/KarnatiManisha/test2/tree/master/0005-longest-palindromic-substring) |
+| [0013-roman-to-integer](https://github.com/KarnatiManisha/test2/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/KarnatiManisha/test2/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/KarnatiManisha/test2/tree/master/0020-valid-parentheses) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/KarnatiManisha/test2/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
