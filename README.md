@@ -27,6 +27,7 @@
 | [0001-two-sum](https://github.com/KarnatiManisha/test2/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/KarnatiManisha/test2/tree/master/0011-container-with-most-water) |
 | [0053-maximum-subarray](https://github.com/KarnatiManisha/test2/tree/master/0053-maximum-subarray) |
+| [0496-next-greater-element-i](https://github.com/KarnatiManisha/test2/tree/master/0496-next-greater-element-i) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/KarnatiManisha/test2/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1635-number-of-good-pairs](https://github.com/KarnatiManisha/test2/tree/master/1635-number-of-good-pairs) |
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/KarnatiManisha/test2/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
@@ -37,6 +38,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/KarnatiManisha/test2/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/KarnatiManisha/test2/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0496-next-greater-element-i](https://github.com/KarnatiManisha/test2/tree/master/0496-next-greater-element-i) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/KarnatiManisha/test2/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1635-number-of-good-pairs](https://github.com/KarnatiManisha/test2/tree/master/1635-number-of-good-pairs) |
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/KarnatiManisha/test2/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
@@ -89,6 +91,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/KarnatiManisha/test2/tree/master/0020-valid-parentheses) |
 | [0232-implement-queue-using-stacks](https://github.com/KarnatiManisha/test2/tree/master/0232-implement-queue-using-stacks) |
+| [0496-next-greater-element-i](https://github.com/KarnatiManisha/test2/tree/master/0496-next-greater-element-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -106,4 +109,8 @@
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/KarnatiManisha/test2/tree/master/0232-implement-queue-using-stacks) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/KarnatiManisha/test2/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
