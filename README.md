@@ -88,6 +88,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/KarnatiManisha/test2/tree/master/0020-valid-parentheses) |
+| [0232-implement-queue-using-stacks](https://github.com/KarnatiManisha/test2/tree/master/0232-implement-queue-using-stacks) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -97,4 +98,12 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/KarnatiManisha/test2/tree/master/0053-maximum-subarray) |
+## Design
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/KarnatiManisha/test2/tree/master/0232-implement-queue-using-stacks) |
+## Queue
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/KarnatiManisha/test2/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
