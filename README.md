@@ -28,6 +28,7 @@
 | [0001-two-sum](https://github.com/KarnatiManisha/test2/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/KarnatiManisha/test2/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/KarnatiManisha/test2/tree/master/0011-container-with-most-water) |
+| [0049-group-anagrams](https://github.com/KarnatiManisha/test2/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/KarnatiManisha/test2/tree/master/0053-maximum-subarray) |
 | [0496-next-greater-element-i](https://github.com/KarnatiManisha/test2/tree/master/0496-next-greater-element-i) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/KarnatiManisha/test2/tree/master/1227-number-of-equivalent-domino-pairs) |
@@ -41,6 +42,7 @@
 | [0001-two-sum](https://github.com/KarnatiManisha/test2/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/KarnatiManisha/test2/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/KarnatiManisha/test2/tree/master/0013-roman-to-integer) |
+| [0049-group-anagrams](https://github.com/KarnatiManisha/test2/tree/master/0049-group-anagrams) |
 | [0496-next-greater-element-i](https://github.com/KarnatiManisha/test2/tree/master/0496-next-greater-element-i) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/KarnatiManisha/test2/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1635-number-of-good-pairs](https://github.com/KarnatiManisha/test2/tree/master/1635-number-of-good-pairs) |
@@ -68,6 +70,7 @@
 | [0013-roman-to-integer](https://github.com/KarnatiManisha/test2/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/KarnatiManisha/test2/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/KarnatiManisha/test2/tree/master/0020-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/KarnatiManisha/test2/tree/master/0049-group-anagrams) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/KarnatiManisha/test2/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Trie
 |  |
@@ -124,4 +127,8 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/KarnatiManisha/test2/tree/master/0004-median-of-two-sorted-arrays) |
+## Sorting
+|  |
+| ------- |
+| [0049-group-anagrams](https://github.com/KarnatiManisha/test2/tree/master/0049-group-anagrams) |
 <!---LeetCode Topics End-->
